@@ -1,0 +1,13 @@
+{
+  "id": "global-search",
+  "name": "GlobalSearch",
+  "version": "1.0.0",
+  "description": "Search across all your servers at once",
+  "main": "index.js",
+  "authors": [
+    {
+      "name": "femboytoucher504",
+      "id": "0"
+    }
+  ]
+}
