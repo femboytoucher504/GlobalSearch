@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "description": "Search across all your servers at once",
   "main": "index.js",
+  "hash": "09a7a61d11d1715123b0d4564966221d525106bb2115b30adf08bc9287ca4e52",
   "authors": [
     {
       "name": "femboytoucher504",
